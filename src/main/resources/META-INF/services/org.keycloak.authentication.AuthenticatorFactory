@@ -1,0 +1,2 @@
+com.github.cvarjao.keycloak.authentication.IdpCreateUserIfUniqueAuthenticatorFactory
+com.github.cvarjao.keycloak.authentication.ResetPassword
